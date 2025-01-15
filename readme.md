@@ -61,13 +61,6 @@ gh auth login
 ./envtosecrets.sh
 ```
 
-### Example
-
-```bash
-# Basic usage
-./envtosecrets.sh
-```
-
 ### .env File Format
 
 Your .env file should follow the standard format:
